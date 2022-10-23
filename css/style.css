@@ -110,7 +110,7 @@ p {
 }
 
 ::selection {
-    color: #FFFFFF;
+    color: crimson;
     background: #00aeda;
 }
 
@@ -562,7 +562,7 @@ font-family: Arial;
 .form .hero-content h1 {
 	font-size: 34px;
 	font-weight: 900;
-	color: #fff;
+	color: #00aeda;
 	line-height: 1.2;
 	letter-spacing: -1px;
 	margin: 0 0 20px 0;
@@ -571,7 +571,7 @@ font-family: Arial;
 .form .hero-content p {
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
-	color: #fff;
+	color: #00aeda;
 	font-weight: 400;
 	line-height: 1.5;
 	margin: 0 0 25px 0;
