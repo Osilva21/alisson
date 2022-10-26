@@ -1992,7 +1992,7 @@ font-size: 12px;
 
 
 .back-to-top {
-	background: rgba(0, 174, 218, 0.5);
+	background: green;
 	margin: 0;
 	position: fixed;
 	bottom: 30px;
